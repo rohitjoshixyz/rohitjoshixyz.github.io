@@ -23,7 +23,7 @@ email: rohit.joshiadvanced@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Digital menu for your favourite restaurant.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vadhiv.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RohitVJoshi
 github_username:  rohitjoshixyz
 
@@ -31,6 +31,10 @@ github_username:  rohitjoshixyz
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  menus:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
