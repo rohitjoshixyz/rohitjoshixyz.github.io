@@ -7,3 +7,9 @@
 .logo { height: 40px; padding: 5px; }
 
 .text-center { text-align: center; }
+
+ul { list-style: none; }
+
+li { font-family: 'Handlee', cursive; font-weight: 600; }
+
+.description { font-size: smaller; color: rgba(44, 44, 44, 0.596); }
