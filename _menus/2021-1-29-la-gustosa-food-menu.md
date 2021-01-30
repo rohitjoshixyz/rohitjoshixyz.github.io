@@ -95,7 +95,7 @@ hotel_name: la-gustosa
 <li>Spaghetti Bolognese ( 415)</li>
 </ul>
 
-<h2 id="pizza">PIZZA</h2>
+<h2 id="pizza">Pizza</h2>
 <ul>
 <li>Margherita (305)</li>
 <li>Di Verdure Griglia (345)
