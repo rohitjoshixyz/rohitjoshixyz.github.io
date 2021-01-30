@@ -8,8 +8,10 @@
 
 .text-center { text-align: center; }
 
+.la-gustosa-font { font-family: 'Handlee', cursive; font-weight: 600; }
+
 ul { list-style: none; }
 
-li { font-family: 'Handlee', cursive; font-weight: 600; }
-
 .description { font-size: smaller; color: rgba(44, 44, 44, 0.596); }
+
+.back-to-sections { text-align: right; }

@@ -23,13 +23,20 @@
   text-align: center;
 }
 
-ul {list-style: none;}
-li {
+// la gustosa
+
+.la-gustosa-font {
   font-family: 'Handlee', cursive;
   font-weight: 600;
 }
 
+ul {list-style: none;}
+
 .description {
   font-size: smaller;
   color: rgba(44, 44, 44, 0.596);
+}
+
+.back-to-sections {
+  text-align: right;
 }

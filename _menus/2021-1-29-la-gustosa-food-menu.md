@@ -5,8 +5,9 @@ permalink: la-gustosa/food
 logo: /assets/images/la-gustosa/la-gustosa-logo.png
 hotel_name: la-gustosa
 ---
-
-<h2>Soups</h2>
+<div class="back-to-sections"><a href="/la-gustosa">Back to sections</a></div>
+<div class="la-gustosa-font">
+<h2 id="soups">Soups</h2>
 <ul>
 <li>Caprese Soup (245/265)</li>
 <li>Funghi Cremoso (245/265)<p class="description">(Mushroom Cream soup)</p></li>
@@ -15,7 +16,7 @@ hotel_name: la-gustosa
 <li>Italian Pollo Zuppe (265)<p class="description">(Creamy Italian Chicken Soup)</p></li>
 </ul>
 
-<h2>Sides</h2>
+<h2 id= "sides">Sides</h2>
 <ul>
 <li>Grilled Sausages (195)</li>
 <li>Garlic Bread (115)</li>
@@ -29,7 +30,7 @@ hotel_name: la-gustosa
 <li>Bacon (215)</li>
 </ul>
 
-<h2>Salads</h2>
+<h2 id="salads">Salads</h2>
 <ul>
 <li>Caprese Salad (265/285)</li>
 <li>Cesare Salad (265/285)</li>
@@ -37,7 +38,7 @@ hotel_name: la-gustosa
 <li>Grigliato Balsamico Pollo Salad (265)</li>
 </ul>
 
-<h2>Starters/Antipasti</h2>
+<h2 id="starters">Starters/Antipasti</h2>
 <ul>
 <li>Siciliana Bruschetta (265)
 <p class="description">(Toasted bread with tomato, olive and feta)</p></li>
@@ -63,7 +64,7 @@ hotel_name: la-gustosa
 <p class="description">(Lemony fish fingers)</p></li>
 </ul>
 
-<h2>Panini/Sandwiches</h2>
+<h2 id="panini">Panini/Sandwiches</h2>
 <ul>
 <li>Formaggio (285/315)
 <p class="description">(Classic grilled cheese sandwich available in chicken as well)</p></li>
@@ -79,7 +80,7 @@ hotel_name: la-gustosa
 <p class="description">(Bacon, lettuce and tomato)</p></li>
 </ul>
 
-<h2>Pasta</h2>
+<h2 id="pasta">Pasta</h2>
 <ul>
 <li>Macroni & Chesse (365/385)</li>
 <li>Penne/Spaghetti Al Pesto (365/385)</li>
@@ -94,7 +95,7 @@ hotel_name: la-gustosa
 <li>Spaghetti Bolognese ( 415)</li>
 </ul>
 
-<h2>PIZZA</h2>
+<h2 id="pizza">PIZZA</h2>
 <ul>
 <li>Margherita (305)</li>
 <li>Di Verdure Griglia (345)
@@ -121,7 +122,7 @@ hotel_name: la-gustosa
 <p class="description">(Pork pepperoni)</p></li>
 </ul>
 
-<h2>Risotto</h2>
+<h2 id="risotto">Risotto</h2>
 <ul>
 <li>Risotto Al Funghi (335/365)</li>
 <li>Risotto Di Verdure (335/365)</li>
@@ -129,7 +130,7 @@ hotel_name: la-gustosa
 <li>Risotto Putanesca (345/375)</li>
 </ul>
 
-<h2>Secondi/Mains</h2>
+<h2 id="mains">Secondi/Mains</h2>
 <ul>
 <li>Campania Lasagna (415/475)
 <p class="description">(Cheesy baked lasagna)</p></li>
@@ -149,7 +150,7 @@ hotel_name: la-gustosa
 <p class="description">(Prawns tossed in creamy sauce served with pilaf and veggies)</p></li>
 </ul>
 
-<h2>Beverages</h2>
+<h2 id="beverages">Beverages</h2>
 <ul>
 <li>Iced Teas - 145</li>
 <li>Basil Peach Iced Tea </li>
@@ -159,12 +160,13 @@ hotel_name: la-gustosa
 <li>Cranberry Mint Iced Tea</li>
 </ul>
 
-<h2>Milkshakes - 205</h2>
+<h2 id="milkshakes">Milkshakes - 205</h2>
 <ul>
 <li>Coffee & Ferro Rocher</li>
 <li>Brownie</li>
 <li>Oreo</li>
 </ul>
 
-<h2>Cold Coffee - 145
-<h2>Hot chocolate -165
+<h4>Cold Coffee - 145</h4>
+<h4>Hot chocolate -165</h4>
+</div>
