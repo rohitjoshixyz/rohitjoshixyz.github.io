@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: la-gustosa
 title: La Gustosa | Breakfast
 permalink: la-gustosa/breakfast
 logo: /assets/images/la-gustosa/la-gustosa-logo.png
