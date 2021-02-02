@@ -5,7 +5,7 @@ permalink: la-gustosa/food
 logo: /assets/images/la-gustosa/la-gustosa-logo.png
 hotel_name: la-gustosa
 ---
-<div class="back-to-sections"><a href="/la-gustosa">Back to sections</a></div>
+<div class="back-to-sections"><a href="/la-gustosa/breakfast">Breakfast Menu</a> | <a href="/la-gustosa">Back to sections</a></div>
 <div class="la-gustosa-font">
 <h2 id="soups">Soups</h2>
 <ul>
