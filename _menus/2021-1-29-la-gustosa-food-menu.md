@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: la-gustosa
 title: La Gustosa | Food
 permalink: la-gustosa/food
 logo: /assets/images/la-gustosa/la-gustosa-logo.png

@@ -34,9 +34,15 @@ ul {list-style: none;}
 
 .description {
   font-size: smaller;
-  color: rgba(44, 44, 44, 0.596);
+  color: rgba(223, 223, 223, 0.596);
 }
 
 .back-to-sections {
   text-align: right;
+}
+
+.blackboard-background {
+  color: white;
+  background-image: url("/assets/images/la-gustosa/blackboard.jpg");
+  // a {color: rgba(197, 197, 197, 0.938) !important;}
 }
