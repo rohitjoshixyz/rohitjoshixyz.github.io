@@ -169,4 +169,5 @@ hotel_name: la-gustosa
 
 <h4>Cold Coffee - 145</h4>
 <h4>Hot chocolate -165</h4>
+<div>*Government taxes as applicable</div>
 </div>

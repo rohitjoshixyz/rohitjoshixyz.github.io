@@ -49,4 +49,5 @@ hotel_name: la-gustosa
 <li>ChamomileTea – 95</li>
 <li>Earl Grey – 95</li>
 </ul>
+<div>*Government taxes as applicable</div>
 </div>
