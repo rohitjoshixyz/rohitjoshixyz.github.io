@@ -8,19 +8,11 @@ hotel_name: the-indi-eternity-bistro
 
 <ul>
 <li> 
-<p>To order food, please send a whatsapp of the following format:</p>
-<b>Your Order Details:</b> <br>
-
-<tt>1 Crispy Chicken Burger<br>
-1 Peri peri chicken mayo sandwich<br></tt>
-<br>
-<b>Your Full Address: </b><br>
-Shop No. 5, Rajgad Society, Rambaug colony, MIT college road, Kothrud
+<h2><a href="https://api.whatsapp.com/send?phone=+919834618102&text=Welcome+to+%F0%9F%8D%94%F0%9F%8D%9F%2AThe+Indi+Eternity+Bistro%2A%F0%9F%8D%9F%F0%9F%8D%94%0D%0ATo+order+delicious+food+from+us+please+fill+the+below+information+and+hit+send%F0%9F%98%8A%0D%0A%0D%0AMy+name%3A%E2%80%A8%0D%0A%0D%0AMy+order+details%3A+%0D%0A%0D%0A%E2%80%A8%E2%80%A8My+full+address%3A%0D%0A%0D%0APay+using+UPI%3A+virajgophan%40okicici">Order on Whatsapp</a>
+</h2>
 <br><br>
-Share your details on - <a href="tel:+919834618102">9834618102</a> ( Whatsapp No. Only for orders )
-<br><br>
-<h4><a href="upi://pay?pa=virajgophan@okicici&amp;pn=Viraj Gophan&amp;cu=INR" class="upi-pay1">Pay using UPI</a> (UPI ID: virajgophan@okicici)
-</h4>
+<h2><a href="upi://pay?pa=virajgophan@okicici&amp;pn=Viraj Gophan&amp;cu=INR" class="upi-pay1">Pay using UPI</a>
+</h2>
 </li>
   {% assign array = "01,02" | split: ','%}
 {% for item in array %}
