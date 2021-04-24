@@ -5,7 +5,7 @@ permalink: tieb
 logo: /assets/images/tieb/tieb-logo.jpg
 hotel_name: the-indi-eternity-bistro
 ---
-
+<img src="/assets/images/tieb/tieb-logo.jpg" height="50%" width="50%">
 <ul>
 <li> 
 <h2>
@@ -14,6 +14,7 @@ hotel_name: the-indi-eternity-bistro
 <br>
 <h2><a href="upi://pay?pa=virajgophan@okicici&amp;pn=Viraj Gophan&amp;cu=INR" class="upi-pay1">Pay using UPI</a>
 </h2>
+<h4>Free delivery within 3 kms. Extra delivery charges will be applicable only if distance is more than 3kms. Please pay using above link after confirmation of amount (food + delivery charges) from us.</h4>
 </li>
   {% assign array = "01,02" | split: ','%}
 {% for item in array %}
