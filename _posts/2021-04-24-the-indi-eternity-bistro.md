@@ -1,9 +1,9 @@
 ---
 layout: hotel_index
-title: The Indie Eternity Bistro
+title: The Indi Eternity Bistro
 permalink: tieb
 logo: /assets/images/tieb/tieb-logo.jpg
-hotel_name: the-indie-eternity-bistro
+hotel_name: the-indi-eternity-bistro
 ---
 
 <ul>
