@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-02T23:34:10+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Vadhiv Menus</title><subtitle>Digital menu for your favourite restaurant.</subtitle><entry><title type="html">La Gustosa</title><link href="http://localhost:4000/la-gustosa" rel="alternate" type="text/html" title="La Gustosa" /><published>2021-01-29T00:00:00+05:30</published><updated>2021-01-29T00:00:00+05:30</updated><id>http://localhost:4000/la-gustosa</id><content type="html" xml:base="http://localhost:4000/la-gustosa">&lt;ul class=&quot;la-gustosa-font&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-24T17:52:41+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Vadhiv Menus</title><subtitle>Digital menu for your favourite restaurant.</subtitle><entry><title type="html">The Indie Eternity Bistro</title><link href="http://localhost:4000/tieb" rel="alternate" type="text/html" title="The Indie Eternity Bistro" /><published>2021-04-24T00:00:00+05:30</published><updated>2021-04-24T00:00:00+05:30</updated><id>http://localhost:4000/the-indie-eternity-bistro</id><content type="html" xml:base="http://localhost:4000/tieb">&lt;ul&gt;
+&lt;li&gt; 
+&lt;p&gt;To order food, please send a whatsapp of the following format:&lt;/p&gt;
+&lt;b&gt;Your Order Details:&lt;/b&gt; &lt;br /&gt;
+
+&lt;tt&gt;1 Crispy Chicken Burger&lt;br /&gt;
+1 Peri peri chicken mayo sandwich&lt;br /&gt;&lt;/tt&gt;
+&lt;br /&gt;
+&lt;b&gt;Your Full Address: &lt;/b&gt;&lt;br /&gt;
+Shop No. 5, Rajgad Society, Rambaug colony, MIT college road, Kothrud
+&lt;br /&gt;&lt;br /&gt;
+Share your details on - &lt;a href=&quot;tel:+919834618102&quot;&gt;9834618102&lt;/a&gt; ( Whatsapp No. Only for orders )
+&lt;br /&gt;&lt;br /&gt;
+&lt;h4&gt;&lt;a href=&quot;upi://pay?pa=virajgophan@okicici&amp;amp;pn=Viraj Gophan&amp;amp;cu=INR&quot; class=&quot;upi-pay1&quot;&gt;Pay using UPI&lt;/a&gt; (UPI ID: virajgophan@okicici)
+&lt;/h4&gt;
+&lt;/li&gt;
+  
+
+  &lt;img src=&quot;/assets/images/tieb/food/01-food.jpg&quot; alt=&quot;food-menu-01&quot; class=&quot;food-menu&quot; /&gt;
+
+  &lt;img src=&quot;/assets/images/tieb/food/02-food.jpg&quot; alt=&quot;food-menu-02&quot; class=&quot;food-menu&quot; /&gt;
+
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">To order food, please send a whatsapp of the following format: Your Order Details:</summary></entry><entry><title type="html">La Gustosa</title><link href="http://localhost:4000/la-gustosa" rel="alternate" type="text/html" title="La Gustosa" /><published>2021-01-29T00:00:00+05:30</published><updated>2021-01-29T00:00:00+05:30</updated><id>http://localhost:4000/la-gustosa</id><content type="html" xml:base="http://localhost:4000/la-gustosa">&lt;ul class=&quot;la-gustosa-font&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;/la-gustosa/food#soups&quot;&gt;Soups&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/la-gustosa/food#sides&quot;&gt;Sides&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/la-gustosa/food#salads&quot;&gt;Salads&lt;/a&gt;&lt;/li&gt;
